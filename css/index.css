@@ -252,6 +252,10 @@ h1, h2, h3, h4, h5 {
         padding-right: 100px;
     }
 
+    header .mobile {
+        display: none;
+    }
+
     /* cta */
 
     .cta {
@@ -286,6 +290,7 @@ h1, h2, h3, h4, h5 {
 
     .cta .theDivWithCirclePic {
         justify-content: flex-end;
+        display: none;
     }
 
     .main-content {
@@ -380,6 +385,9 @@ h1, h2, h3, h4, h5 {
         padding-right: 100px;
     }
 
+    header .mobile {
+        display: none;
+    }
     /* cta */
 
     .cta {
